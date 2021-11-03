@@ -52,14 +52,8 @@ Where :
 
 
 <h3>Note</h3>
-In ```Deep-Learning/Notebooks/```, there are 5 jupyter notebooks that are explaining with description and results the different steps of our work.
+In ```Deep-Learning/Notebooks```, there are 5 jupyter notebooks that are explaining with description and results the different steps of our work.
 
-<hr>
-<h3>Screenshots :</h3> 
-
-<img src="./Documentation/Demo.gif">
-
-<a href="https://drive.google.com/file/d/1-Hjc64SEU_dnliqNb6DL2Cib_bxoqrz5/view?usp=sharing"> video_demo.mp4</a>
 <hr>
 <h3>Screenshots :</h3>
 
