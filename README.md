@@ -25,7 +25,7 @@ This project aims to solve the problem of vehicle identification in Tunisia usin
 ```shell
 !pip install -r Deep-Learning/requirements.txt
 ```
-<h3>Main scripts</h3> 
+<h3>📍 Main scripts</h3> 
 
 In the AI part of this project, we have : 
 
@@ -51,12 +51,12 @@ We can run the main script with this command :
 !python main_vehicle_to_LP.py --image=path
 ```
 Where :
-- **The input :** vehicle image 
+- **The input :** vehicle image
 - **The output :** path of the final image containing the result of the LP detection (green box) and a text showing the result of the LP recognition.
 
 
 <h3>Note</h3>
-In ```Deep-Learning\Notebooks```, there are 5 jupyter notebooks that are explaining with description and results the different steps of our work.
+In ```Deep-Learning/Notebooks```, there are 5 jupyter notebooks that are explaining with description and results the different steps of our work.
 
 <hr>
 <h3>Screenshots :</h3>
@@ -67,7 +67,7 @@ In ```Deep-Learning\Notebooks```, there are 5 jupyter notebooks that are explain
 
 📝 The license plate segmentation 
 
-<img src="./Documentation/Screenshots/segmentaton.png">
+<img src="./Documentation/Screenshots/LP_segmentaton.png">
 
 
 📝 The .Net app : 
