@@ -56,7 +56,7 @@ Where :
 
 
 <h3>Note</h3>
-In the folder ```shell Deep-Learning/Notebooks```, there are 5 jupyter notebooks that are explaining with description and results the different steps of our work.
+In the folder ```python Deep-Learning/Notebooks```, there are 5 jupyter notebooks that are explaining with description and results the different steps of our work.
 
 <hr>
 <h3>Screenshots :</h3>
