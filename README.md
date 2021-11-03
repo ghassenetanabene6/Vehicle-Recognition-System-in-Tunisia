@@ -92,7 +92,7 @@ In the folder <b>"Deep-Learning/Notebooks"</b>, there are 5 jupyter notebooks th
 <h3>Next step :</h3>
 
 To improve the result : 
-- The character segmentation method can be improved to split affected licence plates (bad aspect) or image taken from different angles.
+- The character segmentation method can be improved to split affected license plates (bad aspect) or image taken from different angles.
 - We trained our classification model with 600 images of characters (digits from 0 to 9 and the word of "tunis").
 To improve the model performance, we can add more samples. To do that, we should prepare new cropped characters manually (28x28 pixels) and practise some data augmentation techniques.
 <hr>
