@@ -20,6 +20,12 @@ This project aims to solve the problem of vehicle identification in Tunisia usin
 
 📓 **Paper** : <a href="./Documentation/Report - Hawk Eye Tunisia - Vehicle Recognition System.pdf"> Report.pdf</a> or <a href="https://drive.google.com/file/d/1eu5EJU74HGsw568w4aWfh3WxRSMfUvvq/view?usp=sharing">Link</a>.
 <hr>
+### :round_pushpin: Requirements
+
+```shell
+!pip install -r Deep-Learning/requirements.txt
+```
+
 In the AI part of this project, we have : 
 
 1- Vehicle license plate detection using Yolo :
