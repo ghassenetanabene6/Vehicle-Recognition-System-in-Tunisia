@@ -67,7 +67,7 @@ In ```Deep-Learning/Notebooks```, there are 5 jupyter notebooks that are explain
 
 📝 The license plate segmentation 
 
-<img src="./Documentation/Screenshots/LP_segmentaton.png">
+<img src="./Documentation/Screenshots/LP_segmentation.png">
 
 
 📝 The .Net app : 
