@@ -33,6 +33,10 @@ In the AI part of this project, we have :
 The licence plate detection folder contains these necessary files : **lapi.weights , darknet-yolov3.cfg , classes.names**
 which will be called by for the ```object_detection_yolo.py``` script.
 
+**🔗 Attachments :**
+Here additional files (lapi.weights, model.weights,darknet) that should be dowloaded and added to ```Deep-Learning\Licence_plate_detection``` : <a href="">Dropbox Link</a>
+
+
 2- Text segmentation
 
 3- Character classification using deep learning model based on CNN architecture : 
@@ -84,7 +88,13 @@ In ```Deep-Learning/Notebooks```, there are 5 jupyter notebooks that are explain
 
 <img src="./Documentation/Screenshots/camera_rec.png">
 
+<hr>
+**Next step :**
 
+To improve the result : 
+- The character segmentation method can be improved to split affected licence plates (bad aspect) or image taken from different angles.
+- We trained our classification model with 600 images of characters (digits from 0 to 9 and the word of "tunis").
+To improve the model performance, we can add more samples. To do that, we should prepare new cropped characters manually (28x28 pixels) and practise some data augmentation techniques.
 <hr>
 
 📅 **Last Update On** : September 2020.
