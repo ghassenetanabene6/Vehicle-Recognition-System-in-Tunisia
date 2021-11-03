@@ -89,7 +89,7 @@ In ```Deep-Learning/Notebooks```, there are 5 jupyter notebooks that are explain
 <img src="./Documentation/Screenshots/camera_rec.png">
 
 <hr>
-**Next step :**
+<h3>Next step :</h3>
 
 To improve the result : 
 - The character segmentation method can be improved to split affected licence plates (bad aspect) or image taken from different angles.
