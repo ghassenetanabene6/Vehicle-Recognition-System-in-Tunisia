@@ -9,10 +9,10 @@ The number of vehicles in the world is increasing rapidly every year, particular
 
 **Main Goals :** 
 This project aims to solve the problem of vehicle identification in Tunisia using Deep Learning models. To do that, our mission is to find a solution based on DL models and image processing to accomplish the following tasks :
-• Detecting the presence of the vehicle’s licence plate.
-• Image segmentation and extraction of the text written on the licence plate.
-• Text classification with deep learning.
-• Development of a desktop application (UI) using .Net
+- Detecting the presence of the vehicle’s licence plate.
+- Image segmentation and extraction of the text written on the licence plate.
+- Text classification with deep learning.
+- Development of a desktop application (UI) using .Net
 
 📍 **Keywords :** Python, Computer Vision, Deep Learning, Image segmentaton, Yolo, Faster-RCNN, Tensorflow, Keras, OpenCV, c# (.Net)  
 
