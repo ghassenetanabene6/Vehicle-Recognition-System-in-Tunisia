@@ -25,6 +25,7 @@ This project aims to solve the problem of vehicle identification in Tunisia usin
 ```shell
 !pip install -r Deep-Learning/requirements.txt
 ```
+<h3>Main scripts</h3> 
 
 In the AI part of this project, we have : 
 
@@ -48,8 +49,13 @@ We can run the main script with this command :
 Where :
 - **The input :** vehicle image 
 - **The output :** path of the final image containing the result of the LP detection (green box) and a text showing the result of the LP recognition.
+
+
+<h3>Note</h3>
+In ```Deep-Learning/Notebooks/```, there are 5 jupyter notebooks that are explaining with description and results the different steps of our work.
+
 <hr>
-<h3>Demo :</h3> 
+<h3>Screenshots :</h3> 
 
 <img src="./Documentation/Demo.gif">
 
@@ -57,19 +63,37 @@ Where :
 <hr>
 <h3>Screenshots :</h3>
 
-📝 The user interface 
-<img src="./Documentation/Screenshots/0.png">
+📝 The project process 
 
-<img src="./Documentation/Screenshots/1.png">
+<img src="./Documentation/Screenshots/process.png">
 
-<img src="./Documentation/Screenshots/4.0.png">
+📝 The license plate segmentation 
 
-<img src="./Documentation/Screenshots/4.1.png">
+<img src="./Documentation/Screenshots/segmentaton.png">
+
+
+📝 The .Net app : 
+
+**In this repo, we are not sharing the entire code of our application.**
+
+<img src="./Documentation/Screenshots/loginGT.png">
+
+📝 License Plate detection : 
+
+<img src="./Documentation/Screenshots/LP_detection.png">
+
+📝 License Plate recognition : 
+
+<img src="./Documentation/Screenshots/demo1.png">
+
+📝 Real time License Plate recognition through camera : 
+
+<img src="./Documentation/Screenshots/camera_rec.png">
 
 
 <hr>
 
-📅 **Last Update On** : June 2020.
+📅 **Last Update On** : September 2020.
 
 
 ✉️ **Contact :**
