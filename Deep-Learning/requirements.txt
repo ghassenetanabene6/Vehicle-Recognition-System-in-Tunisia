@@ -1,0 +1,13 @@
+python 3.7.4
+tensorflow 2.3.0
+Keras 2.2.4
+cv2 4.3.0
+matplotlib 3.1.1
+numpy 1.18.5
+pickle
+glob
+pathlib
+argparse
+sys
+os
+datetime
