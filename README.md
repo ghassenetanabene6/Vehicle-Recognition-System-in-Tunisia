@@ -20,6 +20,29 @@ This project aims to solve the problem of vehicle identification in Tunisia usin
 
 📓 **Paper** : <a href="./Documentation/Report - Hawk Eye Tunisia - Vehicle Recognition System.pdf"> Report.pdf</a> or <a href="https://drive.google.com/file/d/1eu5EJU74HGsw568w4aWfh3WxRSMfUvvq/view?usp=sharing">Link</a>.
 <hr>
+In the AI part of this project, we have : 
+
+1- Vehicle license plate detection using Yolo :
+The licence plate detection folder contains these necessary files : **lapi.weights , darknet-yolov3.cfg , classes.names**
+which will be called by for the ```object_detection_yolo.py``` script.
+
+2- Text segmentation
+
+3- Character classification using deep learning model based on CNN architecture : 
+
+After training our CNN model, the ```Deep-Learning/Main-Scripts/Hawk_Eye_LP_recognition.py``` script needs to import our saved model ```ocrmodel.h5```.
+
+- The final script ```Deep-Learning/Main-Scripts/main_vehicle_to_LP.py``` use the previous scripts for the detection and classification of the tunisian LP.
+
+We can run the main script with this command :
+
+```shell
+!python main_vehicle_to_LP.py --image=path
+```
+Where :
+- **The input :** vehicle image 
+- **The output :** path of the final image containing the result of the LP detection (green box) and a text showing the result of the LP recognition.
+<hr>
 <h3>Demo :</h3> 
 
 <img src="./Documentation/Demo.gif">
