@@ -34,7 +34,7 @@ The licence plate detection folder contains these necessary files : **lapi.weigh
 which will be called by for the ```object_detection_yolo.py``` script.
 
 **🔗 Attachments :**
-Here additional files (lapi.weights, model.weights,darknet) that should be dowloaded and added to ```Deep-Learning\Licence_plate_detection``` : <a href="">Dropbox Link</a>
+Here additional files (lapi.weights, model.weights,darknet) that should be dowloaded and added to ```Deep-Learning\Licence_plate_detection``` : <a href="https://www.dropbox.com/s/fxyblp7dezmy2jp/Attachments.zip?dl=0">Dropbox Link</a>
 
 
 2- Text segmentation
