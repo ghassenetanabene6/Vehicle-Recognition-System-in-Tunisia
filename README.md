@@ -1,7 +1,7 @@
 # Vehicle-Recognition-System-in-Tunisia
 
 
-This project is about developping a vehicle recognition system in Tunisia. It demonstrates the outcome of the summer internship (2 months) for second year students of the National School for Computer Sciences.
+This project is about developping a vehicle recognition system in Tunisia. It demonstrates the outcome of the summer internship (2 months) for second year students of the National School of Computer Science.
 
 **Problem setting :**
 
